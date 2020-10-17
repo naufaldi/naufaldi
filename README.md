@@ -14,7 +14,8 @@
 
 ### Personal Stuff
 - 🔭 I’m currently working on [Esteh Creative](https://esteh.id/);
-- 👨🏼‍💻 **Open for Freelance Project** for slicing / convert design to a website
+- 👨🏼‍💻 **Open for Freelance Project** slicing / convert design to a website
+- 👨‍🏫 Mentor Frontend Stuff at [MOFON](https://mentee.naufaldi.xyz)
 - 💻 All of my projects are available at [https://naufaldi.xyz/](https://naufaldi.xyz/project/)
 - 💬 Ask me about Javascript, CSS, UX Reasearch, and Scrum, I am happy to help;
 - 📝 I regulary write articles on [https://blog.cerita-faldi.xyz/](https://blog.cerita-faldi.xyz/)
