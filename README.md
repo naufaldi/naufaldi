@@ -20,7 +20,6 @@
 - 💬 Ask me about Javascript, CSS, UX Reasearch, and Scrum, I am happy to help;
 - 📝 I regulary write articles on [https://blog.cerita-faldi.xyz/](https://blog.cerita-faldi.xyz/)
 - 📫 How to reach me: [@f2aldi](https://twitter.com/f2aldi) or email me at **naufaldi.rafif@gmail.com**  ;
-- 📝 [Profile on LinkedIn](https://www.linkedin.com/in/naufaldirafif/)
 
 ### Technologies
 <p>
