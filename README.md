@@ -13,7 +13,7 @@
 </p>
 
 ### Personal Stuff
-- 🔭 I’m currently working on [Esteh Creative](https://esteh.id/);
+- 🔭 I’m currently working on [Dipa Inhouse](https://dipainhouse.com/);
 - 👨🏼‍💻 **Open for Freelance Project** slicing / convert design to a website
 - 👨‍🏫 Mentor Frontend Stuff at [MOFON](https://mentee.naufaldi.xyz)
 - 💻 All of my projects are available at [https://naufaldi.xyz/](https://naufaldi.xyz/project/)
