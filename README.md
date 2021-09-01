@@ -13,23 +13,13 @@
 </p>
 
 ### Personal Stuff
-- 🔭 I’m currently working on [Dipa Inhouse](https://dipainhouse.com/);
+- 🔭 I’m currently working on [Bahasa ai](https://www.bahasa.ai/);
 - 👨🏼‍💻 **Open for Freelance Project** slicing / convert design to a website
 - 👨‍🏫 Mentor Frontend Stuff at [MOFON](https://mentee.naufaldi.xyz)
 - 💻 All of my projects are available at [https://naufaldi.xyz/](https://naufaldi.xyz/project/)
 - 💬 Ask me about Javascript, CSS, UX Reasearch, and Scrum, I am happy to help;
 - 📝 I regulary write articles on [https://blog.cerita-faldi.xyz/](https://blog.cerita-faldi.xyz/)
 - 📫 How to reach me: [@f2aldi](https://twitter.com/f2aldi) or email me at **naufaldi.rafif@gmail.com**  ;
-
-### Technologies
-<p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>     
-</p>
 
 
 ### Github Stats
