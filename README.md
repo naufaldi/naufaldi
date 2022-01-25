@@ -7,7 +7,7 @@
   <a href="https://github.com/naufaldi?tab=followers">
     <img src="https://img.shields.io/github/followers/naufaldi?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/naufaldi">
+  <a href="http://twitter.com/f2aldi">
     <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
