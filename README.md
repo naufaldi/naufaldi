@@ -13,7 +13,7 @@
 </p>
 
 ### Personal Stuff
-- 🔭 I’m currently open for Oppoturnity;
+- 🔭 I’m currently working for [eFishery](https://github.com/eFishery);
 - 👨🏼‍💻 **Open for Freelance Project** slicing / convert design to a website
 - 👨‍🏫 Mentor Frontend Stuff at [MOFON](https://mentee.naufaldi.xyz)
 - 💻 All of my projects are available at [https://naufaldi.xyz/](https://naufaldi.xyz/project/)
