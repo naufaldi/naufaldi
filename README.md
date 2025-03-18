@@ -13,9 +13,8 @@
 </p>
 
 ### Personal Stuff
-- 🔭 I’m currently working for [eFishery](https://github.com/eFishery);
+- 🔭 I’m currently working for TBD;
 - 👨🏼‍💻 **Open for Freelance Project** slicing / convert design to a website
-- 👨‍🏫 Mentor Frontend Stuff at [MOFON](https://mentee.faldi.xyz)
 - 💻 All of my projects are available at [https://faldi.xyz/](https://faldi.xyz/project/)
 - 💬 Ask me about Javascript, CSS, UX Reasearch, and Scrum, I am happy to help;
 - 📝 I regulary write articles on [https://blog.cerita-faldi.xyz/](https://blog.cerita-faldi.xyz/)
